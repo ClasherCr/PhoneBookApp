@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "181698901877",
-    "project_id": "fir-demo-app-4cd4e",
-    "storage_bucket": "fir-demo-app-4cd4e.appspot.com"
+    "project_number": "174038134609",
+    "project_id": "phonebook-app-29c76",
+    "storage_bucket": "phonebook-app-29c76.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:181698901877:android:17ae4a5b52ea44a985853c",
+        "mobilesdk_app_id": "1:174038134609:android:7f1be799ac0814619b2d70",
         "android_client_info": {
-          "package_name": "com.example.firebaseapp"
+          "package_name": "com.example.phonebookapp"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCNlkN5I3iPQ8W9fr34tcOUAl9pgft-vz0"
+          "current_key": "AIzaSyAlrO53DOaDvfsJWtBLk94RpoPTAZLwE_8"
         }
       ],
       "services": {
